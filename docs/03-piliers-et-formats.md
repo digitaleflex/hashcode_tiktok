@@ -98,3 +98,16 @@ Les intervalles de temps doivent dépendre de la complexité ; 20 à 45 secondes
 - **Le commentaire de la semaine**
 
 Le nom de série doit rester stable tandis que chaque épisode apporte un apprentissage différent.
+
+
+## 6. Phase opérationnelle actuelle — images et carrousels
+
+Pour la semaine du 12 au 18 octobre 2026, commencer par des images simples et des carrousels photo afin de publier sans attendre la maîtrise du montage. Cette phase est temporaire : les formats vidéo restent importants à moyen terme.
+
+- Image simple : manifeste, question communautaire ou message de positionnement.
+- Carrousel de 3 à 5 slides : checklist, commandes, étapes ou mini-explication.
+- Un seul objectif et un CTA par publication.
+- Utiliser un modèle visuel cohérent, puis adapter les légendes pour Facebook et LinkedIn.
+- Réutiliser les sujets qui génèrent des questions ou des enregistrements pour produire plus tard une démonstration vidéo.
+
+Le calendrier prêt à publier est dans [11 — Semaine du 12 au 18 octobre](11-semaine-2026-10-12.md) et les règles de composition dans [12 — Guide images et carrousels](12-guide-images-carrousels.md).
