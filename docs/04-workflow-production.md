@@ -74,3 +74,27 @@ Saisir les statistiques réellement accessibles à 24 heures et à 7 jours. Évi
 TikTok exige une mention pour certains contenus générés ou substantiellement modifiés par l'IA, en particulier lorsqu'ils contiennent des images, des sons ou des vidéos réalistes. Consulter la politique officielle à jour avant publication : https://support.tiktok.com/fr/using-tiktok/creating-videos/ai-generated-content
 
 Ne pas ajouter une mention au hasard ni croire qu'une mention autorise un contenu interdit. Appliquer les règles à la création réellement publiée.
+
+
+## Phase transitoire : publier maintenant, apprendre la vidéo en parallèle
+
+Pendant la semaine du 12 au 18 octobre 2026, ne pas bloquer la cadence en attendant de maîtriser le montage. Préparer des images et carrousels simples, vérifier les faits, publier et mesurer. Réserver deux séances d'apprentissage de CapCut en parallèle.
+
+### Workflow immédiat — image et carrousel
+
+1. Choisir une seule question utile.
+2. Générer le plan et une première légende avec l'IA.
+3. Vérifier les affirmations techniques et les sources.
+4. Composer 1 image ou 3 à 5 slides avec un modèle graphique cohérent.
+5. Vérifier la lisibilité sur téléphone, les droits et l'absence de données sensibles.
+6. Publier avec un CTA unique, puis noter les statistiques disponibles.
+
+### Workflow vidéo progressif
+
+1. Choisir un sujet qui a déjà suscité des réactions.
+2. Préparer une démonstration réelle ou des visuels vérifiés.
+3. Utiliser CapCut pour découper, titrer, sous-titrer et exporter.
+4. Commencer par une vidéo de 15 à 30 secondes, puis augmenter la durée seulement si le contenu le justifie.
+5. Vérifier intégralement la vidéo exportée avant publication.
+
+Le parcours d'apprentissage est détaillé dans [13 — Apprentissage CapCut et vidéo IA](13-apprentissage-capcut-video-ia.md). N'acheter aucun abonnement tant qu'une limite précise n'a pas été identifiée.
