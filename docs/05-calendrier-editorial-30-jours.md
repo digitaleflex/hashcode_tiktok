@@ -4,6 +4,8 @@
 
 Ce calendrier est une proposition de départ, non une prédiction de viralité. Adapter les dates, les sujets et la fréquence à la capacité réelle de production. Une publication par jour est un test ambitieux ; si la qualité baisse, publier moins mais mieux.
 
+> **Priorité opérationnelle du 12 au 18 octobre 2026 :** suivre le calendrier daté [11 — Semaine TikTok](11-semaine-2026-10-12.md), qui remplace temporairement les formats vidéo génériques de la première semaine par des images simples et des carrousels, pendant l'apprentissage de CapCut. Le reste du calendrier de 30 jours demeure une banque d'idées à adapter à la capacité réelle.
+
 **CTA de base :** choisir une seule action par contenu. Tant que le site Reboot n'est pas disponible, ne pas annoncer une inscription ou rediriger vers un parcours qui ne fonctionne pas. Favoriser « suis le compte », « enregistre la checklist » ou une question liée au sujet.
 
 | Jour | Pilier | Sujet / accroche proposée | Format | Objectif |
